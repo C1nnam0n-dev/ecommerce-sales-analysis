@@ -109,7 +109,7 @@ The charts cover:
 # How to Run the Project
 
 1. Clone the repository
-git clone https://github.com/C1nnamon-dev/ecommerce-sales-analysis.git
+git clone https://github.com/C1nnam0n-dev/ecommerce-sales-analysis
 
 2. Open the project in Visual Studio Code
 
